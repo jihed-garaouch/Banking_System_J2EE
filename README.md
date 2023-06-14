@@ -5,7 +5,8 @@ Java, J2EE based website for online banking system
 ## Demos
 Home Page    |  Footer   
 :-------------------------:|:-------------------------:
-![Home Page](https://raw.github.com/jihed-garaouch/Banking_System_J2EE/main/Screenshot/Screenshot%20(15).png)
+![Home Page](https://raw.github.com/jihed-garaouch/Banking_System_J2EE/main/Screenshot/Screenshot%20(19).png)  
+
 Registration Form   |  Login
 :-------------------------:|:-------------------------:
 ![Registration Form](https://raw.github.com/jihed-garaouch/Banking_System_J2EE/main/Screenshot/Screenshot%20(19).png)  |  ![Login]((https://raw.github.com/jihed-garaouch/Banking_System_J2EE/main/Screenshot/Screenshot%20(18).png)
