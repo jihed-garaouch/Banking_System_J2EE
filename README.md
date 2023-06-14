@@ -1,5 +1,5 @@
-# Online-Banking-System
-Java, J2EE based website for online banking system
+# Banking_system
+Java, J2EE based website 
 
 
 ## Demos
