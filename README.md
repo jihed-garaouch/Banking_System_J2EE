@@ -10,7 +10,7 @@ Home Page    |  Footer
 
 Registration Form   |  Login
 :-------------------------:|:-------------------------:
-![Registration Form](https://raw.github.com/PialKanti/Online-Banking-System/master/Screenshot/Screenshot%20(17).png)  |  ![Login](https://raw.github.com/PialKanti/Online-Banking-System/master/Screenshot/Screenshot%20(18).png)
+![Registration Form](https://raw.github.com/jihed-garaouch/Banking_System_J2EE/main/Screenshot/Screenshot%20(19).png)  |  ![Login](https://raw.github.com/PialKanti/Online-Banking-System/master/Screenshot/Screenshot%20(18).png)
 
 
 Wrong username/password    |  Withdraw form
