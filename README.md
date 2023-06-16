@@ -5,7 +5,7 @@ Java, J2EE based website
 ## Demos
 Home Page    |  Footer   
 :-------------------------:|:-------------------------:
-![Home Page](https://raw.github.com/jihed-garaouch/Banking_System_J2EE/main/Screenshot/Screenshot%20(19).png)  
+![Home Page](https://raw.github.com/jihed-garaouch/Banking_System_J2EE/main/Screenshot/Screenshot%20(15).png)  
 
 Registration Form   |  Login
 :-------------------------:|:-------------------------:
