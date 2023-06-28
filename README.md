@@ -23,6 +23,5 @@ Transfer Form   |  Load Request
 
 Load Request Success |  Deposit Schemes
 :-------------------------:|:-------------------------:
-![Load Request Success](https://raw.github.com/jihed-garaouch/Banking_System_J2EE/main/Screenshot/Screenshot%20(26).png) |  ![Deposit Schemes](https://raw.github.com/jihed-garaouch/Banking_System_J2EE/main/Screenshot/Screenshot%20(28).png)
-
+![Load Request Success](https://raw.github.com/jihed-garaouch/Banking_System_J2EE/main/Screenshot/Screenshot%20(26).png) | 
 
